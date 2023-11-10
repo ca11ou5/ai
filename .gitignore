@@ -1,0 +1,7 @@
+# Python cache
+venv
+*.ipynb_checkpoints
+
+# MacOS cache
+*.DS_Store
+.ssh

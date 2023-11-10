@@ -1,0 +1,9 @@
+# python3.10
+jupyterlab==4.0.7
+transformers==4.34.1
+torch==2.1.0
+torchvision==0.16.0
+silero==0.4.1
+sounddevice==0.4.6
+imageai==3.0.3
+opencv_python==4.8.1.78
